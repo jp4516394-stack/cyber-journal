@@ -2,7 +2,7 @@
 
 **Un laboratorio de aprendizaje, ingeniería e investigación en seguridad informática.**
 
-**Integrantes:** Jorge Peña (`rtX3e-18`) y Vannesa Pulido (`swtnnes-22`).
+**Integrantes:** Jorge Peña - Vannesa Pulido
 
 ## Nuestra misión
 
