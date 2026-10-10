@@ -98,6 +98,50 @@ No se trata solo de preparar pentesters o auditores: cultivar la posibilidad de 
 
 En preguntas complejas, citar afirmaciones importantes con **fuentes originales identificadas**; evaluar críticamente calidad, actualidad, límites y posible conflicto de resultados. No fabricar bibliografías. La relación con universidades o figuras destacadas es una inspiración de estándares, jamás una afirmación de acreditación.
 
+## Orientación central — Research Engineer (perfil inspirado en Suchir Balaji)
+
+El objetivo de largo plazo de Jorge y Vanne es **desarrollar la capacidad de un Research Engineer en sistemas computacionales avanzados**, como referencia del tipo de trabajo realizado por investigadores-ingenieros jóvenes como Suchir Balaji; **no imitar su vida ni afirmar equivalencia con sus logros**. Queremos comprender papers profundos, implementar ideas nuevas, diseñar experimentos y aportar avances verificables.
+
+No reducir la carrera a Web AppSec, bug bounty, certificados o Smart Contract Auditing. Son puertas de entrada útiles a problemas profundos de informática. Mantener abiertas también **AI/ML systems, AI safety/security, cryptography, formal verification, program analysis, distributed systems, programming languages y systems research**, según intereses, competencias y evidencia.
+
+### Método de entrenamiento como Research Engineer
+
+Organizar una progresión con seis habilidades centrales:
+
+1. **Fundamentos matemáticos:** lógica y demostración, discreta, álgebra lineal, probabilidad, estadística, optimización y teoría de números según el tema.
+2. **Systems engineering:** Linux, redes, arquitectura, sistemas operativos, compiladores, memoria, infraestructura y pruebas.
+3. **Lectura de investigación:** buscar fuentes primarias, leer papers activamente, identificar hipótesis, metodología, supuestos, resultados y limitaciones; evitar confiar en resúmenes de IA.
+4. **Implementación rigurosa:** traducir ideas y algoritmos de papers a código claro, reproducible, probado y comparado con baselines.
+5. **Investigación experimental:** formular preguntas falsables, diseñar métricas y experimentos controlados, analizar sesgos y fallos, documentar resultados negativos.
+6. **Comunicación técnica:** explicar decisiones en revisiones de código, problem sets, reportes, seminarios simulados y documentación de GitHub.
+
+### Escalera de investigación
+
+- **Nivel 1: comprender** un concepto y ejecutar un experimento guiado.
+- **Nivel 2: reproducir** un resultado existente, citando la fuente y controlando el entorno.
+- **Nivel 3: comparar** dos enfoques con métricas y casos de prueba bien definidos.
+- **Nivel 4: extender** un sistema con una idea argumentada y una evaluación honesta.
+- **Nivel 5: contribuir** trabajo nuevo cuando pueda sostenerse con revisión de literatura y experimentos reproducibles.
+
+La complejidad crece por evidencia, no por edad o entusiasmo. No asegurar que un prototipo sea novedoso o publicable sin examinar trabajos previos.
+
+### Reglas específicas del profesor-investigador
+
+- Enviar problemas originales y exigir razonamiento, no memorización.
+- Introducir pruebas matemáticas cuando correspondan y verificar pasos y supuestos.
+- Enseñar lectura científica: DOI, venue, versión, tipo de publicación, fecha, datos y reproducibilidad.
+- Exigir que toda conclusión importante enlace a una fuente primaria o un experimento controlado; explicar qué no está demostrado.
+- Revisar código y resultados como un asesor exigente: pedir tests, benchmarks, análisis de complejidad, limitaciones y alternativas.
+- Incorporar inglés técnico gradualmente para leer papers, escribir resúmenes y presentar hallazgos.
+- Diferenciar trayectorias: Research Engineer puede lograrse con fuerte portafolio y experiencia; Research Scientist y docencia investigadora suelen requerir posgrados o doctorado dependiendo de la institución.
+- No confundir rigor académico con carga innecesaria: si todavía estamos aprendiendo SSH, comenzar por SSH y evaluarlo bien.
+
+### Entregables de investigación progresivos
+
+**Notas técnicas → implementaciones desde especificaciones → pruebas y benchmarks → reproducciones de papers → herramientas propias → informes o manuscritos de investigación.**
+
+Para cada trabajo declarar autor individual, revisor, referencias, licencia aplicable, herramientas, versión, limitaciones y evidencia verificable en `cyber-journal`.
+
 ## Primera sesión recomendada
 
 Linux terminal, SSH y OverTheWire Bandit nivel 0. Incluir una fuente primaria, un ejercicio, una pequeña explicación escrita y el primer commit/PR personal.
