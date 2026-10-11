@@ -1,10 +1,10 @@
 # Syllabus operativo — programa autodidacta CyberSegyrudad
 
-**Estudiantes:** Jorge Peña (`rtX3e-18`) y Vannesa Pulido (`swtnnes-22`).  
+**Estudiante:** Jorge Peña.
 **Punto de partida:** experiencia como desarrolladores; sin práctica previa acreditada de Linux, redes o seguridad.  
 **Objetivo:** adquirir fundamentos, luego auditar aplicaciones web y smart contracts, y progresar hacia ingeniería e investigación.  
 **Modelo:** universidad independiente: `lectura → problemas → laboratorio → evidencia → defensa → revisión`.  
-**Ritmo inicial sugerido:** 6–10 horas semanales por persona, adaptable. No asumir progreso por transcurso de semanas.
+**Ritmo inicial sugerido:** 6–10 horas semanales para Jorge, adaptable. No asumir progreso por transcurso de semanas.
 
 **Cómo usar este documento:** trabajar de arriba abajo y consultar un único **Issue activo por estudiante**; las semanas son orientativas, las evaluaciones mandan.
 
@@ -29,7 +29,7 @@
 | --- | --- | --- | --- |
 | **1** | **F1.1** ¿Qué es terminal, shell, host remoto y SSH? | Primeros niveles Bandit y comandos Linux básicos; primer PR | Notas individuales + primer PR |
 | **2** | **F1.2** ¿Cómo funcionan archivos, permisos y búsqueda? | Bandit guiado, rutas, `file`, `find`, `grep`, `chmod` solo en laboratorio propio | Explicación de permisos y diagnóstico |
-| **3** | **F1.3 + F0** ¿Cómo automatizar tareas y colaborar? | Pipes, redirecciones, variables, Git y PR de revisión | Script pequeño + revisión cruzada |
+| **3** | **F1.3 + F0** ¿Cómo automatizar tareas y colaborar? | Pipes, redirecciones, variables, Git y PR de revisión | Script pequeño + revisión documentada |
 | **4** | **F2.1** ¿Qué son IP, puertos, TCP y DNS? | TryHackMe Pre Security + inspección de conexiones propias | Diagrama de una conexión |
 | **5** | **F2.2** ¿Qué ocurre dentro de una petición HTTPS? | HTTP headers, cookies, TLS; DevTools del navegador | Petición HTTP anotada y fuentes |
 | **6** | **S1.1** ¿Quién puede hacer qué en una aplicación? | Autenticación vs autorización, roles, API propia | Modelo de amenazas + tests |
@@ -46,13 +46,13 @@
 
 | Sesión | Lectura y teoría | Ejercicio | Criterio observable |
 | --- | --- | --- | --- |
-| **1 — Inicio** | Conceptos de terminal, shell, SSH y cliente/servidor; fuente OpenSSH | Configurar terminal si falta y conectar a Bandit nivel 0 | Explicar conexión remota sin copiar definiciones |
+| **1 — Inicio** | Terminal y shell: lectura breve en castellano | Explicación propia antes de asignar comandos | Distinguir terminal y shell |
 | **2 — Navegación** | Bash: comandos, rutas, `pwd`, `ls`, `cd` | Experimentar con directorios propios | Distinguir ruta absoluta y relativa |
 | **3 — Archivos** | `cat`, `file`, `man`; opción vs argumento | Resolver siguiente nivel Bandit si el anterior fue comprendido | Describir comandos y diagnosticar error |
 | **4 — Investigar** | Ayuda local, manuales, `--help` | Resolver un ejercicio sin tutorial completo | Justificar estrategia y fuentes |
 | **5 — Git básico** | Clonar, status, branch, add, commit | Crear una nota en rama individual | Commit propio identificable |
 | **6 — Documentación** | [Estándar académico](../docs/ACADEMIC_STANDARD.md) | Completar notas y abrir PR | Nota reproducible sin credenciales |
-| **7 — Evaluación** | Repaso y preguntas de defensa | Revisión cruzada con la pareja | Evaluación individual y próximo Issue |
+| **7 — Evaluación** | Repaso y preguntas de defensa | Revisión del mentor o colaborador | Evaluación individual y próximo Issue |
 
 La unidad **F1.1** debe completarse antes de acelerar Bandit. Los niveles no se cuentan como experiencia profesional.
 
@@ -75,7 +75,7 @@ La unidad **F1.1** debe completarse antes de acelerar Bandit. Los niveles no se 
 - [ ] Laboratorio reproducible
 - [ ] Explicación propia del mecanismo
 - [ ] Documento Markdown / pruebas
-- [ ] PR y revisión cruzada
+- [ ] PR y revisión documentada
 
 ## Evidencia
 - Commits/PR:
@@ -91,14 +91,14 @@ La unidad **F1.1** debe completarse antes de acelerar Bandit. Los niveles no se 
 - Repetir / avanzar (según evidencia):
 ```
 
-## V. Cómo estudiar en pareja sin confundirse
+## V. Formación individual
 
-- Mismo syllabus; **dos Issues individuales** por unidad; no mezclar sus niveles.
-- Pueden ver juntos una clase, pero cada uno debe producir su propia explicación y ejecutar comandos.
-- Una revisión cruzada semanal; la revisión no equivale a hacer la tarea del otro.
-- `PROGRESS.md` resume el estado **solo después** de revisar evidencias: no inventar «completado».
-- Preguntas nuevas que no pertenezcan a la unidad: registrar en el Issue como **backlog**, no abandonar la actividad.
-- Si una unidad está muy fácil, demostrar la competencia y adelantar; si no, descomponerla.
+- Un Issue activo por unidad para Jorge.
+- Una acción por turno: explicación → intento → discusión → siguiente paso.
+- Revisión semanal del mentor; revisión por pares opcional, sin depender de Vannesa.
+- Actualizar PROGRESS solo con evidencias revisadas. Los cambios administrativos del asistente no son práctica del estudiante.
+- Registrar curiosidades como backlog sin cambiar la unidad.
+- Preferir castellano con enlaces comprobados e identificar traducciones comunitarias.
 
 ## VI. Evaluaciones y continuidad
 
