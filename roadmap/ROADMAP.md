@@ -1,4 +1,4 @@
-# Roadmap por competencias — CyberSegyrudad JorgeVanne
+# Roadmap por competencias — Ciberseguridad — Jorge
 
 > Fecha de arranque: octubre de 2026. Los plazos son flexibles. Se avanza al demostrar competencias; no por cumplir un número de días.
 
@@ -6,7 +6,7 @@
 
 **Tema:** Git, branches, commits, PRs, Markdown, búsqueda de fuentes y citación.
 
-**Evidencia:** primer PR individual, revisado por la otra persona, con una nota original y al menos una referencia primaria.
+**Evidencia:** primer PR individual, revisado por el mentor o un colaborador, con una nota original y al menos una referencia primaria.
 
 ## Etapa 1 — Linux y fundamentos de sistemas
 
@@ -59,23 +59,12 @@ Posibles líneas de especialización:
 
 **Evidencia:** problema original, literatura, hipótesis, implementación, mediciones, límites y reproducción independiente.
 
-## Primera semana sugerida
+## Primer ciclo de trabajo
 
-| Día | Trabajo | Evidencia |
-| --- | --- | --- |
-| 1 | Git básico y Bandit 0 | Nota con qué significa SSH y cómo conectarse |
-| 2 | Bandit 1–2 | Comandos, errores y explicaciones |
-| 3 | Bandit 3–4 | Navegación y archivos especiales |
-| 4 | Bandit 5 | Permisos, archivos y búsqueda |
-| 5 | Fundamentos TCP/IP, DNS, SSH | Diagrama y bibliografía |
-| 6 | Repaso y lectura técnica | Preguntas formuladas por cada uno |
-| 7 | Pull Requests de Jorge y Vanne | Revisión mutua y retrospectiva |
-
-No copiar soluciones ni subir credenciales de laboratorios. Ajustar carga según nivel real.
+Seguir el orden de sesiones de [STUDY_PLAN.md](STUDY_PLAN.md). Empezar por terminal y shell; continuar con SSH/Bandit 0, navegación y documentación según evidencia. No fijar niveles Bandit por día ni introducir redes avanzadas antes de los prerrequisitos.
 
 ## Registro individual
 
 **Jorge:** pendiente de diagnóstico inicial.  
-**Vanne:** pendiente de diagnóstico inicial.
 
 Cada semana: competencias practicadas, evidencia GitHub, dudas, fuente consultada y siguiente experimento.
