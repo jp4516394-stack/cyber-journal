@@ -1,8 +1,10 @@
-# CyberSegyrudad — JorgeVanne
+# Ciberseguridad — Jorge
 
 **Un laboratorio de aprendizaje, ingeniería e investigación en seguridad informática.**
 
-**Integrantes:** Jorge Peña - Vannesa Pulido
+**Estudiante:** Jorge Peña.
+
+Formación individual; la colaboración técnica es opcional y no comparte el registro de progreso.
 
 ## Nuestra misión
 
@@ -37,8 +39,8 @@ No existen plazos rígidos: se avanza mediante evidencia de competencia, no por 
 
 ## Colaboración y evidencias
 
-- Cada participante mantiene apuntes y ejercicios identificables.
-- Usamos **Issues** para tareas, **branches** para cambios y **Pull Requests** para revisión mutua.
+- Jorge mantiene apuntes y ejercicios identificables.
+- Usamos **Issues** para tareas, **branches** para cambios y **Pull Requests** para revisión documentada del mentor o de un colaborador.
 - Los writeups incluyen objetivo, contexto, comandos, evidencia, explicación, fuentes y aprendizajes.
 - No se afirma que un laboratorio se completó sin una prueba verificable.
 - Toda actividad ofensiva se realiza únicamente sobre laboratorios o sistemas autorizados.
@@ -46,7 +48,7 @@ No existen plazos rígidos: se avanza mediante evidencia de competencia, no por 
 
 ## Primer hito
 
-**Linux + Git:** comprender la terminal, archivos, permisos y SSH, resolver los primeros niveles de [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) y enviar el **primer Pull Request de cada integrante** con una nota original y referencias.
+**Linux + Git:** comprender la terminal, archivos, permisos y SSH, resolver los primeros niveles de [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) y enviar el **primer Pull Request de Jorge** con una nota original y referencias.
 
 ## Materiales de referencia iniciales
 
