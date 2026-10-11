@@ -1,6 +1,6 @@
-# Progreso académico — Jorge y Vanne
+# Progreso académico — Jorge
 
-**Actualizado:** 2026-10-09.  
+**Actualizado:** 2026-10-11.  
 **Estado:** registro de partida, todavía sin evaluaciones ni laboratorios acreditados en este documento.  
 **Fuente primaria de evidencia:** Issues, commits, PRs y notas individuales de `cyber-journal`.
 
@@ -16,19 +16,7 @@
 | Competencia | Estado | Evidencia (PR/Issue) | Próxima acción |
 | --- | --- | --- | --- |
 | F0 — Git y revisión | Pendiente | — | Crear primer Issue y PR |
-| F1.1 — Terminal/SSH | Pendiente | — | Preparar entorno y Bandit nivel 0 |
-| F1.2 — Archivos y permisos | Pendiente | — | Esperar verificación F1.1 |
-| F2 — Redes/HTTP | Pendiente | — | Tras bases Linux |
-| W1 — Web AppSec | Pendiente | — | Tras redes y HTTP |
-| B1 — EVM/Solidity | Pendiente | — | Introducción progresiva |
-| R — Matemática e investigación | Pendiente | — | Fundamentos transversales |
-
-## Vannesa Pulido — `swtnnes-22`
-
-| Competencia | Estado | Evidencia (PR/Issue) | Próxima acción |
-| --- | --- | --- | --- |
-| F0 — Git y revisión | Pendiente | — | Crear primer Issue y PR |
-| F1.1 — Terminal/SSH | Pendiente | — | Preparar entorno y Bandit nivel 0 |
+| F1.1 — Terminal/SSH | Pendiente | — | Ubuntu confirmado; lectura shell asignada, explicación y práctica pendientes |
 | F1.2 — Archivos y permisos | Pendiente | — | Esperar verificación F1.1 |
 | F2 — Redes/HTTP | Pendiente | — | Tras bases Linux |
 | W1 — Web AppSec | Pendiente | — | Tras redes y HTTP |
@@ -39,9 +27,11 @@
 
 - **Semana / fechas:**
 - **Jorge:** competencia, evidencia (enlace), qué pudo explicar, bloqueos, evaluación.
-- **Vanne:** competencia, evidencia (enlace), qué pudo explicar, bloqueos, evaluación.
-- **Revisión cruzada:** comentario en PR y cambios solicitados.
+- **Revisión del mentor o colaborador:** comentario en PR y cambios solicitados.
 - **Próxima semana:** una competencia central por persona.
 - **Cambios de syllabus:** razón y vínculo al Issue que los justifica.
 
-**Política:** jamás cambiar una competencia a «Dominada» por haber visto un video o porque el otro estudiante la haya terminado.
+**Política:** jamás cambiar una competencia a «Dominada» por haber visto un video.
+
+## Continuidad
+Ubuntu confirmado por Jorge. Lectura introductoria asignada; sin evidencia de finalización. Cambios administrativos del asistente no acreditan Git ni Linux. Próximo paso: consultar el Issue actual y revisar la explicación de terminal y shell.

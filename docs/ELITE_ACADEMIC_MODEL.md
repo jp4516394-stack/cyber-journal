@@ -1,8 +1,8 @@
-# Modelo académico de referencia: CyberSegyrudad — JorgeVanne
+# Modelo académico de referencia: Ciberseguridad — Jorge
 
-**Propósito:** diseñar una formación independiente de alta exigencia para Jorge Peña (`rtX3e-18`) y Vannesa Pulido (`swtnnes-22`). Se usan referencias de universidades de investigación; **no** se afirma afiliación, título ni crédito académico.
+**Propósito:** diseñar una formación independiente de alta exigencia para Jorge Peña. Se usan referencias de universidades de investigación; **no** se afirma afiliación, título ni crédito académico.
 
-**Inicio real:** ambos programan, pero están comenzando con Linux y ciberseguridad. Un syllabus universitario avanzado es la **meta de formación**, no el punto de partida inmediato.
+**Inicio real:** Jorge programa, pero está comenzando con Linux y ciberseguridad. Un syllabus universitario avanzado es la **meta de formación**, no el punto de partida inmediato.
 
 **Actualizado:** 2026-10-09. Las plataformas, temarios y accesos pueden cambiar; verificar la versión del curso antes de asignar una actividad.
 
@@ -37,7 +37,7 @@
 5. **Laboratorio:** reproducible, autorizado, con pruebas y observaciones.
 6. **Mini informe técnico:** hipótesis, método, resultado, análisis y bibliografía.
 7. **Defensa oral simulada:** tres preguntas exigentes; distinguir memoria de comprensión.
-8. **Revisión cruzada:** Jorge revisa el trabajo de Vanne y viceversa.
+8. **Revisión cruzada:** el mentor evalúa el trabajo de Jorge; un colaborador puede aportar revisión independiente.
 9. **Criterio de avance:** evaluación basada en evidencia, no duración del módulo.
 
 Cuando un módulo sea introductorio (como Linux), reducir la carga a **una lectura primaria y un laboratorio**; conservar las preguntas y la revisión. No convertir cada día en un trabajo de investigación completo.
@@ -57,7 +57,7 @@ No confundir arXiv/preprint con evaluación por pares. Verificar conferencia, ve
 
 ## D. Seminario de investigación y fuentes de papers
 
-Cuando adquieran los prerrequisitos, leer artículos de:
+Cuando Jorge adquiera los prerrequisitos, leer artículos de:
 - [IEEE Symposium on Security and Privacy (S&P) — papers 2026](https://sp2026.ieee-security.org/accepted-papers.html)
 - [USENIX Security 2026 — proceedings](https://www.usenix.org/conference/usenixsecurity26/technical-sessions)
 - [NDSS 2026 — accepted papers](https://www.ndss-symposium.org/ndss2026/accepted-papers/)
